@@ -4,4 +4,5 @@
 *&
 *&---------------------------------------------------------------------*
 REPORT ZPUR_REP2.
-write:/ 'Hello ABAP GIT'.
+* Purchasing Report
+write:/ 'Hello ABAP'.
